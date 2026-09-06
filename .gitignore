@@ -1,2 +1,11 @@
-.vscode/
 **/build/
+Testing
+log
+
+.DS_store
+.vscode/
+*.log.*
+*-asciinema
+*.pid
+*-profile
+lib/
